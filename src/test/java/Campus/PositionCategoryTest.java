@@ -40,7 +40,7 @@ public class PositionCategoryTest {
                         .post("auth/login")
 
                         .then()
-                        //.log().body()
+//                        .log().body()
                         .statusCode(200)
                         .extract().response().getDetailedCookies()
         ;
