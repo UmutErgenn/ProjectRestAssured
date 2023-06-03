@@ -6,4 +6,11 @@
             <class name="Campus.PositionCategoryTest"> </class>
         </classes>
     </test>
+
+    <test  name="Attestations Test">
+        <classes>
+            <class name="Campus.AttestationsTest"> </class>
+        </classes>
+    </test>
+
 </suite>
